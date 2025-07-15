@@ -161,7 +161,7 @@ const App: React.FC = () => {
 
         
         <footer className="text-center py-6">
-          <div className="text-sm text-gray-500 dark:text-gray-400">Built with ❤️ for runners everywhere</div>
+          <div className="text-sm text-gray-500 dark:text-gray-400">Built with Love!</div>
           <div className="text-xs text-gray-400 dark:text-gray-500 mt-1">
             By Pyoush Madan
           </div>
