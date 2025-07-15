@@ -48,8 +48,6 @@
 
 ---
 
----
-
 ## 🛠 Tech Stack
 
 | Category         | Tools/Tech                            |
