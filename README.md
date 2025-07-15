@@ -84,6 +84,7 @@ src/
 │
 ├── App.css
 └── main.tsx
+```
 ---
 
 ## 🛠 Tech Stack
