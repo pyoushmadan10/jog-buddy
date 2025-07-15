@@ -47,44 +47,7 @@
 | **Canvas API**           | Renders themed background animations using HTML Canvas                     |
 
 ---
----
 
-## 📁 Project Structure
-
-```txt
-src/
-├── components/
-│   └── ui/
-│       ├── HydrationReminder.tsx
-│       ├── LocationTracker.tsx
-│       ├── MotivationTip.tsx         # Uses IntersectionObserver API
-│       ├── NetworkStatus.tsx
-│       ├── ParticleBackground.tsx    # Uses Canvas API
-│       └── ThemeToggle.tsx
-│
-├── hooks/
-│   ├── use-mobile.tsx
-│   ├── use-toast.ts
-│   ├── useGeoLocation.ts             # Uses Geolocation API
-│   ├── useNetworkStatus.ts           # Uses Network Information API
-│   └── useTheme.ts
-│
-├── store/
-│   └── useJoggingStore.ts            # Zustand state store
-│
-├── lib/
-│   └── utils.ts
-│
-├── utils/
-│   └── notificationUtils.ts          # Format time + notification helpers
-│
-├── pages/
-│   ├── Index.tsx                     # Main App page
-│   └── NotFound.tsx
-│
-├── App.css
-└── main.tsx
-```
 ---
 
 ## 🛠 Tech Stack
